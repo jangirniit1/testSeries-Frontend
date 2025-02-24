@@ -160,7 +160,6 @@ function Navbar({ isLoggedIn, handleLoginLogout }) {
             </a>
           </PopoverGroup>
           <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-            ]
             <a
               href="#"
               className="text-lg px-5 rounded-2xl font-semibold transition-all duration-1000 ease-in-out relative overflow-hidden z-1 after:text-black after-content-[''] after:absolute after:bottom-0 after:left-0 after:w-full after:h-full after:bg-linear-to-r/hsl after:from-indigo-400 after:to-indigo-100 after:-z-2 before:content-[''] before:absolute before:bottom-0 before:left-0 before:w-[0%] before:h-full before:bg-linear-to-r/hsl before:from-indigo-500 before:to-indigo-800 before:transition-all before:duration-1000 before:ease-in-out before:-z-1 hover:text-white hover:before:w-full"
